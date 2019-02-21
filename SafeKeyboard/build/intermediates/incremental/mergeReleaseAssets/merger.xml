@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/src/main/assets"/><source path="/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/src/release/assets"/></dataSet></merger>

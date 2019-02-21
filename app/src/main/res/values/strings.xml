@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SafeKeyboard</string>
+    <string name="description">SafeKeyboard</string>
+    <string name="safe_keyboard">微笑安全键盘</string>
+    <string name="keyboard_system">"系统键盘"</string>
+    <string name="keyboard_demo_new">"安全软键盘"</string>
+    <string name="keyboardDone">完成</string>
+</resources>

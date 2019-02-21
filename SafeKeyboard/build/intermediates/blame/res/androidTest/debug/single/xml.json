@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/res/merged/androidTest/debug/xml/keyboard_letter.xml",
+        "source": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/bundles/debug/res/xml/keyboard_letter.xml"
+    },
+    {
+        "merged": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/res/merged/androidTest/debug/xml/keyboard_num.xml",
+        "source": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/bundles/debug/res/xml/keyboard_num.xml"
+    },
+    {
+        "merged": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/res/merged/androidTest/debug/xml/keyboard_symbol.xml",
+        "source": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/bundles/debug/res/xml/keyboard_symbol.xml"
+    }
+]

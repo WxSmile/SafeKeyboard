@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="keyboardBackgroundColor">#F0F1F4</color>
+    <color name="keyboardKeyNormal">#FFFFFF</color>
+    <color name="keyboardKeyPress">#AEB6C1</color>
+    <color name="keyboardKeySpecialNormal">#DCDEE3</color>
+    <color name="keyboardKeySpecialPress">#BDBFC4</color>
+    <color name="keyboardPreviewText">#000000</color>
+    <color name="keyboardSpecialBorder">#989FAA</color>
+    <string name="keyboard_key1">"@"</string>
+    <string name="keyboard_key2">"&amp;"</string>
+    <string name="keyboard_key3">\"</string>
+    <string name="keyboard_key4">"&lt;"</string>
+    <string name="keyboard_key5">">"</string>
+    <string name="mKeyTextSize">mKeyTextSize</string>
+    <string name="mLabelTextSize">mLabelTextSize</string>
+</resources>

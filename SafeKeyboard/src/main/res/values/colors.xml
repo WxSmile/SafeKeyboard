@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="keyboardKeyNormal">#FFFFFF</color>
+    <color name="keyboardKeyPress">#AEB6C1</color>
+    <color name="keyboardPreviewText">#000000</color>
+    <color name="keyboardSpecialBorder">#989FAA</color>
+    <color name="keyboardKeySpecialNormal">#DCDEE3</color>
+    <color name="keyboardKeySpecialPress">#BDBFC4</color>
+    <color name="keyboardBackgroundColor">#F0F1F4</color>
+</resources>

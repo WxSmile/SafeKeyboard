@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/res/merged/debug/xml/keyboard_letter.xml",
+        "source": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/src/main/res/xml/keyboard_letter.xml"
+    },
+    {
+        "merged": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/res/merged/debug/xml/keyboard_symbol.xml",
+        "source": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/src/main/res/xml/keyboard_symbol.xml"
+    },
+    {
+        "merged": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/build/intermediates/res/merged/debug/xml/keyboard_num.xml",
+        "source": "/Users/wangss/Desktop/git-doc/librarys/SafeKeyboard-master/SafeKeyboard/src/main/res/xml/keyboard_num.xml"
+    }
+]
